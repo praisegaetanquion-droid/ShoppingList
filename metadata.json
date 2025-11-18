@@ -1,0 +1,5 @@
+{
+  "name": "Shopping List ",
+  "description": "An intelligent shopping list application that automatically categorizes your items using the Gemini API, making your shopping trips more efficient and organized.",
+  "requestFramePermissions": []
+}
